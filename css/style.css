@@ -308,6 +308,7 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
   #fh5co-header .display-t,
   .fh5co-cover .display-t {
+    height: 85vh;
     padding: 3em 0;
   }
 }
@@ -444,7 +445,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .fh5co-section p {
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 70%);
   font-size: 18px;
   line-height: 1.5;
 }
