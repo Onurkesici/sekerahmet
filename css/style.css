@@ -1785,3 +1785,8 @@ textarea {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.menu-content strong {
+  color: rgb(123, 123, 123);
+}
